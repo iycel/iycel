@@ -1,11 +1,13 @@
 
-### Hi there 👋, Yucel
-#### Full Stack Developer
+# Hi there 👋, I'm Yucel
+## Full Stack Developer
 ![Full Stack Developer](https://img.freepik.com/free-photo/coder-programmer-sitting-table-with-desktop-computer-monitor-typing-coding-3d-rendering_126523-3136.jpg)
 
 I’m Yucel from Turkey. I really enjoy learning languages and frameworks
 
-Skills: Django / ReactJS / JS / HTML / CSS / Python 
+## Skills
+* ⚛️ React
+* 💻 JS, HTML, CSS, Python, Django
 
 - 🔭 I’m currently working on this page. 
 
