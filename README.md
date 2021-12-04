@@ -16,6 +16,5 @@ I’m Yucel from Turkey. I really enjoy learning languages and frameworks
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iycel)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iycel)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iycel)
 
 ![Profile views](https://gpvc.arturio.dev/iycel)  
