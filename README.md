@@ -3,7 +3,7 @@
 #### Full Stack Developer
 ![Full Stack Developer](https://img.freepik.com/free-photo/coder-programmer-sitting-table-with-desktop-computer-monitor-typing-coding-3d-rendering_126523-3136.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I’m Yucel from Turkey. I really enjoy learning languages and frameworks
 
 Skills: Django / ReactJS / JS / HTML / CSS / Python 
 
